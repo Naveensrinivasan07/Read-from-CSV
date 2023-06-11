@@ -34,7 +34,7 @@ print("Row",len(df.axes[1]))
 ```
 
 ## OUTPUT:
-![output](![output](https://github.com/Naveensrinivasan07/Read-from-CSV/assets/119475891/dad2e498-c186-45a5-b646-ea67cd1f501f)
+![output](https://github.com/Naveensrinivasan07/Read-from-CSV/assets/119475891/dad2e498-c186-45a5-b646-ea67cd1f501f)
 
 
 ## RESULT:
